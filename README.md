@@ -1,1 +1,3 @@
-....../....
+....../....../.
+
+(slashes are every Sunday)
